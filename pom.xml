@@ -91,6 +91,12 @@
 			<scope>provided</scope>
 		</dependency>
 		
+		<dependency>
+   			 <groupId>io.jenkins.plugins</groupId>
+    			<artifactId>sonarqube-generic-coverage</artifactId>
+    			<version>1.0</version>
+		</dependency>
+		
 	</dependencies>
 	
 	<distributionManagement>
